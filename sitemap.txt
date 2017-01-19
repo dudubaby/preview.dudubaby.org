@@ -1,7 +1,6 @@
 http://preview.dudubaby.org
 http://preview.dudubaby.org/about
 http://preview.dudubaby.org/all/
-http://preview.dudubaby.org/404
 http://preview.dudubaby.org/all/1
 http://preview.dudubaby.org/all/2
 http://preview.dudubaby.org/all/3
@@ -193,6 +192,7 @@ http://preview.dudubaby.org/2016/09
 http://preview.dudubaby.org/2016/10
 http://preview.dudubaby.org/2016/11
 http://preview.dudubaby.org/2016/12
+http://preview.dudubaby.org/gallery
 http://preview.dudubaby.org/status/
 http://preview.dudubaby.org/status/f673929
 http://preview.dudubaby.org/status/356a192
@@ -1256,4 +1256,3 @@ http://preview.dudubaby.org/status/8a8ec48
 http://preview.dudubaby.org/status/ea10e81
 http://preview.dudubaby.org/status/070dafc
 http://preview.dudubaby.org/status/8b2dd04
-http://preview.dudubaby.org/gallery
